@@ -180,5 +180,6 @@ h2 {
 	line-height: 40px;
 }
 body {
-	font-family: Arial, Times, sans-serif; 
+	font-family: Arial, Times, sans-serif;
+	background: linear-gradient(to top, white , red);
 }
