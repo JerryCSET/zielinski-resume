@@ -136,7 +136,7 @@ table {
 	padding-top: 15px;
 }
 
-.border1 {
+.line1 {
 	color: black;
 	border-top: 0.1px solid black;
 	width: 850px;
@@ -145,7 +145,7 @@ table {
 	position: absolute;
 }
 
-.border2 {
+.line2 {
 	color: black;
 	border-top: 0.1px solid black;
 	width: 850px;
@@ -174,8 +174,12 @@ h2 {
 	font-size: 24px;
 }
 
-.goals {
+.fix {
 	margin: 50px 0 0 0;
 	text-align: center;
 	line-height: 40px;
+}
+body {
+	font-family: Arial, Times, sans-serif;
+	background: linear-gradient(to top, white , red);
 }
